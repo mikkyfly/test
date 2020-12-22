@@ -1,0 +1,13 @@
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part3\bin\Debug\netcoreapp3.1\SeasonsPart3.exe
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part3\bin\Debug\netcoreapp3.1\SeasonsPart3.deps.json
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part3\bin\Debug\netcoreapp3.1\SeasonsPart3.runtimeconfig.json
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part3\bin\Debug\netcoreapp3.1\SeasonsPart3.runtimeconfig.dev.json
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part3\bin\Debug\netcoreapp3.1\SeasonsPart3.dll
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part3\bin\Debug\netcoreapp3.1\SeasonsPart3.pdb
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part3\obj\Debug\netcoreapp3.1\SeasonsPart3.csprojAssemblyReference.cache
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part3\obj\Debug\netcoreapp3.1\SeasonsPart3.AssemblyInfoInputs.cache
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part3\obj\Debug\netcoreapp3.1\SeasonsPart3.AssemblyInfo.cs
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part3\obj\Debug\netcoreapp3.1\SeasonsPart3.csproj.CoreCompileInputs.cache
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part3\obj\Debug\netcoreapp3.1\SeasonsPart3.dll
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part3\obj\Debug\netcoreapp3.1\SeasonsPart3.pdb
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part3\obj\Debug\netcoreapp3.1\SeasonsPart3.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NumberFibonacciPart4/1.0.0": {
+        "runtime": {
+          "NumberFibonacciPart4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NumberFibonacciPart4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

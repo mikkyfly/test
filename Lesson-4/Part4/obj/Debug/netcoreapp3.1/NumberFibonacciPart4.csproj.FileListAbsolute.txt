@@ -1,0 +1,12 @@
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part4\bin\Debug\netcoreapp3.1\NumberFibonacciPart4.exe
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part4\bin\Debug\netcoreapp3.1\NumberFibonacciPart4.deps.json
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part4\bin\Debug\netcoreapp3.1\NumberFibonacciPart4.runtimeconfig.json
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part4\bin\Debug\netcoreapp3.1\NumberFibonacciPart4.runtimeconfig.dev.json
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part4\bin\Debug\netcoreapp3.1\NumberFibonacciPart4.dll
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part4\bin\Debug\netcoreapp3.1\NumberFibonacciPart4.pdb
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part4\obj\Debug\netcoreapp3.1\NumberFibonacciPart4.AssemblyInfoInputs.cache
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part4\obj\Debug\netcoreapp3.1\NumberFibonacciPart4.AssemblyInfo.cs
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part4\obj\Debug\netcoreapp3.1\NumberFibonacciPart4.csproj.CoreCompileInputs.cache
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part4\obj\Debug\netcoreapp3.1\NumberFibonacciPart4.dll
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part4\obj\Debug\netcoreapp3.1\NumberFibonacciPart4.pdb
+C:\Users\m.shikovskii\geekbrains\Lesson-4\Part4\obj\Debug\netcoreapp3.1\NumberFibonacciPart4.genruntimeconfig.cache
