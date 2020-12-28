@@ -1,0 +1,13 @@
+C:\Users\m.shikovskii\source\repos\Lesson-5\WriteDataTimeFile\bin\Debug\netcoreapp3.1\WriteDataTimeFile.exe
+C:\Users\m.shikovskii\source\repos\Lesson-5\WriteDataTimeFile\bin\Debug\netcoreapp3.1\WriteDataTimeFile.deps.json
+C:\Users\m.shikovskii\source\repos\Lesson-5\WriteDataTimeFile\bin\Debug\netcoreapp3.1\WriteDataTimeFile.runtimeconfig.json
+C:\Users\m.shikovskii\source\repos\Lesson-5\WriteDataTimeFile\bin\Debug\netcoreapp3.1\WriteDataTimeFile.runtimeconfig.dev.json
+C:\Users\m.shikovskii\source\repos\Lesson-5\WriteDataTimeFile\bin\Debug\netcoreapp3.1\WriteDataTimeFile.dll
+C:\Users\m.shikovskii\source\repos\Lesson-5\WriteDataTimeFile\bin\Debug\netcoreapp3.1\WriteDataTimeFile.pdb
+C:\Users\m.shikovskii\source\repos\Lesson-5\WriteDataTimeFile\obj\Debug\netcoreapp3.1\WriteDataTimeFile.csprojAssemblyReference.cache
+C:\Users\m.shikovskii\source\repos\Lesson-5\WriteDataTimeFile\obj\Debug\netcoreapp3.1\WriteDataTimeFile.AssemblyInfoInputs.cache
+C:\Users\m.shikovskii\source\repos\Lesson-5\WriteDataTimeFile\obj\Debug\netcoreapp3.1\WriteDataTimeFile.AssemblyInfo.cs
+C:\Users\m.shikovskii\source\repos\Lesson-5\WriteDataTimeFile\obj\Debug\netcoreapp3.1\WriteDataTimeFile.csproj.CoreCompileInputs.cache
+C:\Users\m.shikovskii\source\repos\Lesson-5\WriteDataTimeFile\obj\Debug\netcoreapp3.1\WriteDataTimeFile.dll
+C:\Users\m.shikovskii\source\repos\Lesson-5\WriteDataTimeFile\obj\Debug\netcoreapp3.1\WriteDataTimeFile.pdb
+C:\Users\m.shikovskii\source\repos\Lesson-5\WriteDataTimeFile\obj\Debug\netcoreapp3.1\WriteDataTimeFile.genruntimeconfig.cache

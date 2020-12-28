@@ -1,0 +1,13 @@
+C:\Users\m.shikovskii\source\repos\Lesson-5\IsNumberRndSaveFile\bin\Debug\netcoreapp3.1\IsNumberRndSaveFile.exe
+C:\Users\m.shikovskii\source\repos\Lesson-5\IsNumberRndSaveFile\bin\Debug\netcoreapp3.1\IsNumberRndSaveFile.deps.json
+C:\Users\m.shikovskii\source\repos\Lesson-5\IsNumberRndSaveFile\bin\Debug\netcoreapp3.1\IsNumberRndSaveFile.runtimeconfig.json
+C:\Users\m.shikovskii\source\repos\Lesson-5\IsNumberRndSaveFile\bin\Debug\netcoreapp3.1\IsNumberRndSaveFile.runtimeconfig.dev.json
+C:\Users\m.shikovskii\source\repos\Lesson-5\IsNumberRndSaveFile\bin\Debug\netcoreapp3.1\IsNumberRndSaveFile.dll
+C:\Users\m.shikovskii\source\repos\Lesson-5\IsNumberRndSaveFile\bin\Debug\netcoreapp3.1\IsNumberRndSaveFile.pdb
+C:\Users\m.shikovskii\source\repos\Lesson-5\IsNumberRndSaveFile\obj\Debug\netcoreapp3.1\IsNumberRndSaveFile.csprojAssemblyReference.cache
+C:\Users\m.shikovskii\source\repos\Lesson-5\IsNumberRndSaveFile\obj\Debug\netcoreapp3.1\IsNumberRndSaveFile.AssemblyInfoInputs.cache
+C:\Users\m.shikovskii\source\repos\Lesson-5\IsNumberRndSaveFile\obj\Debug\netcoreapp3.1\IsNumberRndSaveFile.AssemblyInfo.cs
+C:\Users\m.shikovskii\source\repos\Lesson-5\IsNumberRndSaveFile\obj\Debug\netcoreapp3.1\IsNumberRndSaveFile.csproj.CoreCompileInputs.cache
+C:\Users\m.shikovskii\source\repos\Lesson-5\IsNumberRndSaveFile\obj\Debug\netcoreapp3.1\IsNumberRndSaveFile.dll
+C:\Users\m.shikovskii\source\repos\Lesson-5\IsNumberRndSaveFile\obj\Debug\netcoreapp3.1\IsNumberRndSaveFile.pdb
+C:\Users\m.shikovskii\source\repos\Lesson-5\IsNumberRndSaveFile\obj\Debug\netcoreapp3.1\IsNumberRndSaveFile.genruntimeconfig.cache
