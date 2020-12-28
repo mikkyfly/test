@@ -1,0 +1,13 @@
+C:\Users\m.shikovskii\source\repos\Lesson-6\KillConsole\bin\Debug\netcoreapp3.1\KillConsole.exe
+C:\Users\m.shikovskii\source\repos\Lesson-6\KillConsole\bin\Debug\netcoreapp3.1\KillConsole.deps.json
+C:\Users\m.shikovskii\source\repos\Lesson-6\KillConsole\bin\Debug\netcoreapp3.1\KillConsole.runtimeconfig.json
+C:\Users\m.shikovskii\source\repos\Lesson-6\KillConsole\bin\Debug\netcoreapp3.1\KillConsole.runtimeconfig.dev.json
+C:\Users\m.shikovskii\source\repos\Lesson-6\KillConsole\bin\Debug\netcoreapp3.1\KillConsole.dll
+C:\Users\m.shikovskii\source\repos\Lesson-6\KillConsole\bin\Debug\netcoreapp3.1\KillConsole.pdb
+C:\Users\m.shikovskii\source\repos\Lesson-6\KillConsole\obj\Debug\netcoreapp3.1\KillConsole.csprojAssemblyReference.cache
+C:\Users\m.shikovskii\source\repos\Lesson-6\KillConsole\obj\Debug\netcoreapp3.1\KillConsole.AssemblyInfoInputs.cache
+C:\Users\m.shikovskii\source\repos\Lesson-6\KillConsole\obj\Debug\netcoreapp3.1\KillConsole.AssemblyInfo.cs
+C:\Users\m.shikovskii\source\repos\Lesson-6\KillConsole\obj\Debug\netcoreapp3.1\KillConsole.csproj.CoreCompileInputs.cache
+C:\Users\m.shikovskii\source\repos\Lesson-6\KillConsole\obj\Debug\netcoreapp3.1\KillConsole.dll
+C:\Users\m.shikovskii\source\repos\Lesson-6\KillConsole\obj\Debug\netcoreapp3.1\KillConsole.pdb
+C:\Users\m.shikovskii\source\repos\Lesson-6\KillConsole\obj\Debug\netcoreapp3.1\KillConsole.genruntimeconfig.cache
